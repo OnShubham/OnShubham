@@ -34,7 +34,7 @@
 
 ###
 
-<h5 align="left">🔸 💡  I like to explore new technologies <br><br>🔸  🔭 I’m currently working on React.js & Python<br><br>🔸  🧑‍💻 I’m looking to collaborate on Open Source projects<br><br> 🔸  💬 Ask me about , Machine Learning and Web Dev<br><br>🔸   🌱 I’m currently learning Data Analytics and Next.js<br><br>🔸    📫 Contact me at shubhamkharche3005@gmail.com</h5>
+<h5 align="left">🔸 💡 &nbsp;I like to explore new technologies <br><br>🔸  🔭 &nbsp; I’m currently working on React.js & Python<br><br>🔸  🧑‍💻 &nbsp; I’m looking to collaborate on Open Source projects<br><br> 🔸  💬  &nbsp;Ask me about , Machine Learning and Web Dev<br><br>🔸   🌱 &nbsp I’m currently learning Data Analytics and Next.js<br><br>🔸    📫  &nbsp;Contact me at  shubhamkharche3005@gmai </h5>
 
 ###
 
