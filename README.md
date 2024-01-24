@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="450" src="https://res.cloudinary.com/superfolio/image/upload/v1620689979/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63362f33332f63322f63363333633230656465383266306530636564376435373064626533613166332e676966_yjuh2s.gif"  />
+  <img height="300" src="https://res.cloudinary.com/superfolio/image/upload/v1620689979/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63362f33332f63322f63363333633230656465383266306530636564376435373064626533613166332e676966_yjuh2s.gif"  />
 </div>
 
 ###
@@ -91,8 +91,8 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=OnShubham&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=10&order=3" height="200" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=OnShubham&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=merko&hide_border=false&order=2" height="200" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=OnShubham&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=10&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=OnShubham&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=merko&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
