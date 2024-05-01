@@ -23,7 +23,7 @@
   <a href="shubhamkharche3005@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="gmail logo"  />
   </a> &nbsp &nbsp
-  <a href="https://shubham-kharche.gitbook.io/portfolio/" target="_blank">
+  <a href="https://shubham-kharche.vercel.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=portfolio&logo=dev.to&label=&color=603cba&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="devto logo"  />
   </a>
 </div>
